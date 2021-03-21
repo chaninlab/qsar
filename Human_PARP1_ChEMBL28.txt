@@ -1,0 +1,8 @@
+"Total bioactivity data points: 5079"
+ "Selected bioactivity data points (IC50): 2800"
+ "Omit data points with < or > symbol: 2418"
+ "Number of non-redundant compounds: 1864"
+ "Number of unique redundant compounds: 197"
+ "Number of unique redundant compounds that are kept which has SD < 2: 85"
+ "Combined data points: 1949"
+ "Number of curated data points with missing SMILES removed: 1949"     
